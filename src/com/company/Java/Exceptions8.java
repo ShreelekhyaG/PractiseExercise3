@@ -1,6 +1,6 @@
 package com.company.Java;
 
-public class Exceptions9 {
+public class Exceptions8 {
     public static void main(String[] args){
         int[] arr={10,20,30,40,50};
         try{
@@ -23,4 +23,5 @@ public class Exceptions9 {
             System.out.println(e+" "+e.getMessage());
         }
     }
+
 }
